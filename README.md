@@ -1,2 +1,2 @@
-# PersonalProjecs
+# Personal Projects
 Experiments and personal studies
